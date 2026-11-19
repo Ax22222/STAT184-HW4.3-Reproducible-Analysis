@@ -22,4 +22,10 @@ This repository contains the reproducible data analysis workflow, Quarto source 
 4. Click **Render** in RStudio/Posit Cloud to regenerate `HW4_3.pdf`.
 
 ## Author
+## Project Plan
+See [`PLAN.md`](PLAN.md) for the complete GitHub workflow and analytical steps, which are now finalized and merged.
+
+## Author & Contact
 * **Sparsh Srivastava** – Penn State University (STAT 184)
+* **Email:** svs7538@psu.edu
+
